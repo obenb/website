@@ -1,2 +1,2 @@
 # website
-https://github.com/obenb/website
+http://obenb.github.io/website
